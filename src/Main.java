@@ -33,5 +33,6 @@ public class Main {
         }
 
         input.close();
+        System.out.println("123");
     }
 }
